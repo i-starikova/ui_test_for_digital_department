@@ -6,6 +6,7 @@ UI test for digital department of BMSTU in python using selenium.
 I test site saucedemo.com with Python and Selenium.
 
 For run test use:
-'''
+```
 python test_site_saucedemo_3.py
-'''
+```
+
